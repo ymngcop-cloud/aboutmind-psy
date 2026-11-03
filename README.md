@@ -4,6 +4,8 @@
 
 公開網址：https://ymngcop-cloud.github.io/aboutmind-psy/
 
+Deploy note: GitHub Pages source is branch `main`, folder `/` (root).
+
 - `index.html` — 首頁
 - `about.html` — 關於我
 - `counseling-psychologist.html` — 甚麼是輔導心理學家
